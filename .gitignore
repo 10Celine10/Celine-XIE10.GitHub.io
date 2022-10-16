@@ -1,4 +1,24 @@
 # Logs
+class Me:
+    def __init__(self):
+        self.name = "Yilin Xie"
+        self.prefer_name = "Celine"
+        self.born_year = 2003
+        self.height = 168
+        self.hometown = "Beijing, CN"
+        self.grad_school = "Macau university of science and technology"
+        self.curr_location = "Macau, CN"
+    def favs(self):
+        self.fav_sport = "hogging, basketball"
+        self.fav_series = "Better Call Saul"
+        self.fav_color = "Macaroon Colors"
+        self.fav_band = "Sweet John"
+        self.fav_city = "Chongqing"
+        self.fav_cat = "Sphynx, Devon Rex"
+    def contact_info(self):
+        self.github = "Celine-Xie10"
+        self.instagram = "ylxie10_diedie"
+        self.wechat = "GlokieBabe"
 logs
 *.log
 npm-debug.log*
